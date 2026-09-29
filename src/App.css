@@ -1,4 +1,4 @@
-/* Global Reset */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -10,7 +10,6 @@ body {
   background-color: #f4f7fc;
 }
 
-/* --- Home Page --- */
 .hero-section {
   text-align: center;
   padding: 3rem 1rem;
@@ -30,7 +29,6 @@ body {
   margin-top: 2rem;
 }
 
-/* --- Search Bar --- */
 .search-bar-container {
   display: flex;
   justify-content: center;
@@ -85,7 +83,6 @@ body {
   font-weight: bold;
 }
 
-/* --- Restaurant Card --- */
 .restaurant-card {
   background: white;
   border-radius: 8px;
@@ -146,7 +143,6 @@ body {
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
-/* --- NavBar --- */
 .navbar {
   display: flex;
   justify-content: space-between;
